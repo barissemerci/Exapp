@@ -2,8 +2,9 @@
 Mobil Programlamaya Giriş dersinin ödevi kapsamında sınav oluşturma uygulaması olarak Exapp uygulaması yapılmıştır.
 Activity, Intent, RecyclerView, SharedPreferences, Internal Storage kavramları üzerinde durulmuştur.
 Ödev dökümanına 
-[buradan](https://github.com/barissemerci/Exapp/blob/master/2020-2021%20Bahar%20Yar%C4%B1y%C4%B1l%C4%B1%20BLM3520%20Mobil%20Programlamaya%20Giri%C5%9F%20%C3%96dev%202.pdf) 
+<a href="https://github.com/barissemerci/Exapp/blob/master/2020-2021%20Bahar%20Yar%C4%B1y%C4%B1l%C4%B1%20BLM3520%20Mobil%20Programlamaya%20Giri%C5%9F%20%C3%96dev%202.pdf" target="_blank">buradan</a>
 ulaşabilirsiniz.
+
 
 Giriş ekranından Sign Up butonuna basılarak uygulamaya kayıt olunur. 
 
